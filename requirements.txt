@@ -1,0 +1,19 @@
+# Install PyTorch with CUDA support separately using:
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+transformers==4.45.2
+Pillow==10.4.0
+fastapi==0.115.0
+uvicorn==0.31.0
+streamlit==1.39.0
+pydantic==2.9.2
+# numpy==2.1.1
+scipy==1.14.1
+pandas==2.2.3
+opencv-python==4.10.0.84
+pycocotools==2.0.8
+rouge==1.0.1
+datasets==3.0.2
+nltk==3.9.1
+gdown==5.2.0
+torchmetrics==1.5.1

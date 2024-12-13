@@ -1,0 +1,8 @@
+*.png
+*.jpg
+transformer_model
+__pycache__/
+*.pt
+*.json
+img_cpt
+coco_dataset1
