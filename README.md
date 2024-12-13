@@ -3,17 +3,13 @@
 Image captioning is a task that combines computer vision and natural language processing to generate textual descriptions for images. This project uses a Transformer-based architecture, leveraging GPT-2 for generating fluent and contextually accurate captions.
 
 ## Table of Contents
-- [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
 - [Acknowledgments](#acknowledgments)
-
-## Overview
-
-Image captioning is a challenging problem at the intersection of computer vision and natural language processing. This project uses a transformer-based model to automatically generate descriptive captions for images, improving the accuracy of captions over previous CNN-RNN-based methods. 
+ 
 
 ## Features
 - **Transformer-Based Model**: Utilizes transformer architecture instead of traditional CNN-RNN models.
